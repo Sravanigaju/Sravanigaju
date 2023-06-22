@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanigaju&label=Profile%20views&color=0e75b6&style=flat" alt="sravanigaju" /> </p>
 
-- 🔭 I’m currently working at [Qxf2 Services as Intern](https://qxf2.com/)
-
+- 🔭 I’m Worked at [Qxf2 Services as Intern](https://qxf2.com/)
+- 🔭 I’m currently working at [AICTE,]
 - 🌱 I’m currently learning **python & Selenium**
 
 - 🤝 I’m looking for help with **Python**
