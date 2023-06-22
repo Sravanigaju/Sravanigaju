@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanigaju&label=Profile%20views&color=0e75b6&style=flat" alt="sravanigaju" /> </p>
 
-- 🔭 I’m Worked at [Qxf2 Services as Intern](https://qxf2.com/)
+- 🔭 I Worked at [Qxf2 Services as Intern](https://qxf2.com/)
 - 🔭 I’m currently working at [AICTE,]
-- 🌱 I’m currently learning **python & Selenium**
+- 🌱 I’m currently Working on **python Projects & React JS**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 📫 How to reach me **sravanigajula99@gmail.com**
 
