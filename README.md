@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sravani Gajula</h1>
-<h3 align="center">INTERN at Qxf2 Services</h3>
+<h3 align="center">INTERN at AICTE Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanigaju&label=Profile%20views&color=0e75b6&style=flat" alt="sravanigaju" /> </p>
 
