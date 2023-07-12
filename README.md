@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sravanigajula99@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/test/Downloads/Sravani%20Resume.pdfs](file:///C:/Users/test/Downloads/Sravani%20Resume.pdfs)
+- 📄 Know about my experiences https://resume.io/r/FZVg0lO4b
 
 - ⚡ Fun fact **Always Roasted Chilles Over Chocolates**
 
